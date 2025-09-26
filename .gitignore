@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node
+node_modules/
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# Logs
+*.log
